@@ -111,7 +111,8 @@ Bu proje açık kaynaklıdır ve geliştirilmeye açıktır. Zamanla yeni özell
 ### OSINT ve Profil Analizi
 ![OSINT & PROFİL ANALİZ](Resimler/OsıntveProfilAnaliz.png)
 
-![Video rehberi](Resimler/OsintveProfilAnalizVideoRaporHTML.mp4)
+##Video İçerik 
+[İzle](Resimler/OsintveProfilAnalizVideoRaporHTML.mp4)
 
 ### Dark Web İzleme
 ![Dark Web İzleme](Resimler/DarkWebMonitör.png)
