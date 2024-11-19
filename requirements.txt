@@ -1,0 +1,17 @@
+aiohttp
+requests
+whois
+nmap
+keyboard
+smtplib
+urllib3
+beautifulsoup4
+tqdm
+scikit-learn
+rich
+numpy
+tabulate
+colorama
+termcolor
+scapy
+dnspython
